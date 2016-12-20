@@ -1,0 +1,8 @@
+# qsessions.test
+
+package require tcltest
+namespace import ::tcltest::*
+
+source qsessions.tcl
+
+test 
